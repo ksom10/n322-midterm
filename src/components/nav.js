@@ -7,7 +7,7 @@ const Nav = () => {
         <Menu icon='labeled'>
             <Menu.Item
             name="home"
-            href="/home">
+            href="/">
                 
                 <Icon name='home'/>
             </Menu.Item>
